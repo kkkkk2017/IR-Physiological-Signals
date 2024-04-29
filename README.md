@@ -1,5 +1,5 @@
 # Characterizing Information Seeking Processes with Multiple Physiological Signals
---
+
 Materials, data and code used in the SIGIR'24 paper: Characterizing Information Seeking Processes with Multiple Physiological Signals
 
 
